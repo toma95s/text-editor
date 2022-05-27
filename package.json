@@ -1,0 +1,20 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "This is a text editor that runs in the browser.The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toma95s/text-editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toma95s/text-editor/issues"
+  },
+  "homepage": "https://github.com/toma95s/text-editor#readme"
+}

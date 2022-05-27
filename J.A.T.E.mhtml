@@ -1,0 +1,653 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:3000/
+Subject: J.A.T.E
+Date: Fri, 27 May 2022 00:43:13 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--PvZrm9aZmfyrMtz3klLcnvpxTv1wq7unSJjLmNwE4X----"
+
+
+------MultipartBoundary--PvZrm9aZmfyrMtz3klLcnvpxTv1wq7unSJjLmNwE4X----
+Content-Type: text/html
+Content-ID: <frame-A45410D182CD8A78E2B5BF27E05B579A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:3000/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-1dd77512-d1c0-485f-83ce-0c9797342d66@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-88928e70-e0af-4e64=
+-b4c6-972cd20de5e1@mhtml.blink" /><meta name=3D"viewport" content=3D"width=
+=3Ddevice-width,initial-scale=3D1"><title>J.A.T.E</title><link rel=3D"style=
+sheet" href=3D"https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/cod=
+emirror.min.css"><link rel=3D"stylesheet" href=3D"https://cdnjs.cloudflare.=
+com/ajax/libs/codemirror/5.52.2/theme/monokai.min.css"><meta name=3D"theme-=
+color" content=3D"#225ca3"><link rel=3D"manifest" href=3D"http://localhost:=
+3000/manifest.json"></head><body data-new-gr-c-s-loaded=3D"14.1062.0" data-=
+new-gr-c-s-check-loaded=3D"14.1062.0" data-gr-ext-installed=3D""><nav id=3D=
+"navbar"><div class=3D"nav-btn"><a class=3D"btn btn-sm btn-dark" id=3D"butt=
+onInstall" role=3D"button">Install!</a></div><h1>Just Another Text Editor</=
+h1><div class=3D"navbar-brand"><img src=3D"http://localhost:3000/assets/ico=
+ns/icon_96x96.png"></div></nav><main id=3D"main"><div class=3D"CodeMirror c=
+m-s-monokai CodeMirror-wrap CodeMirror-focused"><div style=3D"overflow: hid=
+den; position: relative; width: 3px; height: 0px; top: 169px; left: 103.219=
+px;"><textarea autocorrect=3D"off" autocapitalize=3D"off" spellcheck=3D"fal=
+se" tabindex=3D"0" style=3D"position: absolute; bottom: -1em; padding: 0px;=
+ width: 1000px; height: 1em; outline: none;"></textarea></div><div class=3D=
+"CodeMirror-vscrollbar" tabindex=3D"-1" cm-not-content=3D"true" style=3D"wi=
+dth: 18px; pointer-events: none;"><div style=3D"min-width: 1px; height: 0px=
+;"></div></div><div class=3D"CodeMirror-hscrollbar" tabindex=3D"-1" cm-not-=
+content=3D"true" style=3D"height: 18px; pointer-events: none;"><div style=
+=3D"height: 100%; min-height: 1px; width: 0px;"></div></div><div class=3D"C=
+odeMirror-scrollbar-filler" cm-not-content=3D"true"></div><div class=3D"Cod=
+eMirror-gutter-filler" cm-not-content=3D"true"></div><div class=3D"CodeMirr=
+or-scroll" tabindex=3D"-1"><div class=3D"CodeMirror-sizer" style=3D"margin-=
+left: 29px; margin-bottom: 0px; border-right-width: 30px; min-height: 188px=
+; padding-right: 0px; padding-bottom: 0px;"><div style=3D"position: relativ=
+e; top: 0px;"><div class=3D"CodeMirror-lines" role=3D"presentation"><div ro=
+le=3D"presentation" style=3D"position: relative; outline: none;"><div class=
+=3D"CodeMirror-measure"><span><span>=E2=80=8B</span>x</span><div class=3D"C=
+odeMirror-linenumber CodeMirror-gutter-elt"><div>11</div></div></div><div c=
+lass=3D"CodeMirror-measure"></div><div style=3D"position: relative; z-index=
+: 1;"></div><div class=3D"CodeMirror-cursors" style=3D""><div class=3D"Code=
+Mirror-cursor" style=3D"left: 74.2188px; top: 165px; height: 15px;">&nbsp;<=
+/div></div><div class=3D"CodeMirror-code" role=3D"presentation" style=3D"">=
+<div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper"=
+ style=3D"left: -29px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutt=
+er-elt" style=3D"left: 0px; width: 21px;">1</div></div><pre class=3D" CodeM=
+irror-line " role=3D"presentation"><span role=3D"presentation" style=3D"pad=
+ding-right: 0.1px;"><span cm-text=3D"">=E2=80=8B</span></span></pre></div><=
+div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" =
+style=3D"left: -29px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
+r-elt" style=3D"left: 0px; width: 21px;">2</div></div><pre class=3D" CodeMi=
+rror-line " role=3D"presentation"><span role=3D"presentation" style=3D"padd=
+ing-right: 0.1px;"><span class=3D"cm-comment">/*</span></span></pre></div><=
+div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" =
+style=3D"left: -29px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
+r-elt" style=3D"left: 0px; width: 21px;">3</div></div><pre class=3D" CodeMi=
+rror-line " role=3D"presentation"><span role=3D"presentation" style=3D"padd=
+ing-right: 0.1px;"><span class=3D"cm-comment"> &nbsp; &nbsp; &nbsp; _____  =
+____________</span></span></pre></div><div style=3D"position: relative;"><d=
+iv class=3D"CodeMirror-gutter-wrapper" style=3D"left: -29px;"><div class=3D=
+"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21=
+px;">4</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><s=
+pan role=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm=
+-comment"> &nbsp; &nbsp;  / / &nbsp; |/_  __/ ____/</span></span></pre></di=
+v><div style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrappe=
+r" style=3D"left: -29px;"><div class=3D"CodeMirror-linenumber CodeMirror-gu=
+tter-elt" style=3D"left: 0px; width: 21px;">5</div></div><pre class=3D" Cod=
+eMirror-line " role=3D"presentation"><span role=3D"presentation" style=3D"p=
+adding-right: 0.1px;"><span class=3D"cm-comment"> __  / / /| | / / / __/ &n=
+bsp; </span></span></pre></div><div style=3D"position: relative;"><div clas=
+s=3D"CodeMirror-gutter-wrapper" style=3D"left: -29px;"><div class=3D"CodeMi=
+rror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">6<=
+/div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><span rol=
+e=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm-commen=
+t">/ /_/ / ___ |/ / / /___ &nbsp; </span></span></pre></div><div style=3D"p=
+osition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left:=
+ -29px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=
+=3D"left: 0px; width: 21px;">7</div></div><pre class=3D" CodeMirror-line " =
+role=3D"presentation"><span role=3D"presentation" style=3D"padding-right: 0=
+.1px;"><span class=3D"cm-comment"> ____/_/  |_/_/ /_____/ &nbsp; </span></s=
+pan></pre></div><div style=3D"position: relative;"><div class=3D"CodeMirror=
+-gutter-wrapper" style=3D"left: -29px;"><div class=3D"CodeMirror-linenumber=
+ CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">8</div></div><pre=
+ class=3D" CodeMirror-line " role=3D"presentation"><span role=3D"presentati=
+on" style=3D"padding-right: 0.1px;"><span class=3D"cm-comment">just another=
+ text editor</span></span></pre></div><div style=3D"position: relative;"><d=
+iv class=3D"CodeMirror-gutter-wrapper" style=3D"left: -29px;"><div class=3D=
+"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21=
+px;">9</div></div><pre class=3D" CodeMirror-line " role=3D"presentation"><s=
+pan role=3D"presentation" style=3D"padding-right: 0.1px;"><span class=3D"cm=
+-comment">*/</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></pre></div><div style=3D"positio=
+n: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -29px=
+;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left=
+: 0px; width: 21px;">10</div></div><pre class=3D" CodeMirror-line " role=3D=
+"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1px;">=
+<span cm-text=3D"">=E2=80=8B</span></span></pre></div><div style=3D"positio=
+n: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -29px=
+;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left=
+: 0px; width: 21px;">11</div></div><pre class=3D" CodeMirror-line " role=3D=
+"presentation"><span role=3D"presentation" style=3D"padding-right: 0.1px;">=
+<span class=3D"cm-variable">console</span>.<span class=3D"cm-property">log<=
+/span>(<span class=3D"cm-variable">hello</span>);</span></pre></div><div st=
+yle=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=
+=3D"left: -29px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt=
+" style=3D"left: 0px; width: 21px;">12</div></div><pre class=3D" CodeMirror=
+-line " role=3D"presentation"><span role=3D"presentation" style=3D"padding-=
+right: 0.1px;"><span class=3D"cm-variable">qdjiqwdwi</span></span></pre></d=
+iv></div></div></div></div></div><div style=3D"position: absolute; height: =
+30px; width: 1px; border-bottom: 0px solid transparent; top: 188px;"></div>=
+<div class=3D"CodeMirror-gutters" style=3D"height: 218px; left: 0px;"><div =
+class=3D"CodeMirror-gutter CodeMirror-linenumbers" style=3D"width: 29px;"><=
+/div></div></div></div></main><div><div class=3D"_th-container">
+    <div class=3D"_th-click-hover _item-input">
+        x1
+    </div>
+    <div class=3D"_th-item _item-x2">&gt;</div>
+    <div class=3D"_th-item _item-x-2">&lt;</div>
+    <div class=3D"_th-item _item-xx2">&gt;&gt;</div>
+    <div class=3D"_th-item _item-xx-2">&lt;&lt;</div>
+    <div class=3D"_th-item _item-reset">O</div>
+</div>
+<div class=3D"_th_cover-all-show-times _th_hidden">
+    <div class=3D"_th_times">x1</div>
+</div></div></body><grammarly-desktop-integration data-grammarly-shadow-roo=
+t=3D"true"><template shadowmode=3D"open"><div aria-label=3D"grammarly-integ=
+ration" role=3D"group" tabindex=3D"-1" class=3D"grammarly-desktop-integrati=
+on" data-content=3D"{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;=
+:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-deskt=
+op-integration></html>
+------MultipartBoundary--PvZrm9aZmfyrMtz3klLcnvpxTv1wq7unSJjLmNwE4X----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-1dd77512-d1c0-485f-83ce-0c9797342d66@mhtml.blink
+
+@charset "utf-8";
+
+:root { --primary: #31a9e1; --gray: #ececec; --whitesmoke: #f5f5f5; --dark:=
+ #222; --monoaki: #272822; --navbar-height: 50px; }
+
+body { margin: 0px; background-color: var(--monoaki); font-family: system-u=
+i, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, C=
+antarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; }
+
+h1 { font-size: 22px; }
+
+#navbar { height: var(--navbar-height); background-color: var(--primary); b=
+ox-shadow: rgba(0, 0, 0, 0.1) 1px 1px 1px; display: flex; align-items: cent=
+er; justify-content: space-between; color: white; font-size: 22px; font-wei=
+ght: 550; letter-spacing: 0.9px; }
+
+.navbar-brand img { padding-top: 10px; }
+
+.loading-spinner { animation-duration: 0.75s; animation-iteration-count: in=
+finite; animation-name: rotate-forever; animation-timing-function: linear; =
+height: 30px; width: 30px; border-top-color: ; border-top-style: ; border-t=
+op-width: ; border-right-style: ; border-right-width: ; border-bottom-color=
+: ; border-bottom-style: ; border-bottom-width: ; border-left-color: ; bord=
+er-left-style: ; border-left-width: ; border-image-source: ; border-image-s=
+lice: ; border-image-width: ; border-image-outset: ; border-image-repeat: ;=
+ border-right-color: transparent; border-radius: 50%; }
+
+.loading-container { display: flex; justify-content: center; align-items: c=
+enter; height: calc(100vh - var(--navbar-height)); }
+
+@keyframes rotate-forever {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.app-update { display: none; position: absolute; right: 10px; }
+
+.app-update.show { display: block; }
+
+.nav-btn { margin: 25px; }
+
+.btn { text-align: center; display: inline-block; padding: 0.5rem 1.2rem; m=
+argin: 0px; text-decoration: none; font-size: 1rem; border-radius: 0.3rem; =
+border: 1px solid transparent; outline: none; color: rgb(26, 26, 26); backg=
+round-color: rgb(174, 174, 174); transition: color 0.2s ease-in-out 0s, bac=
+kground-color 0.2s ease-in-out 0s; }
+
+.btn:hover { background-color: rgb(206, 206, 206); cursor: pointer; }
+
+.btn.btn-squared { border-radius: 0px; }
+
+.btn.btn-sm { font-size: 0.85rem; padding: 0.3rem 0.9rem; }
+
+.btn.btn-lg { font-size: 1.25rem; padding: 0.8rem 1.4rem; }
+
+.btn.btn-block { width: 100%; display: block; text-align: center; }
+
+.btn.btn-primary { background-color: rgb(45, 62, 80); color: rgb(217, 233, =
+232); }
+
+.btn.btn-primary:hover { background-color: rgb(87, 119, 154); }
+
+.btn.btn-danger { background-color: rgb(230, 76, 102); color: rgb(255, 255,=
+ 255); }
+
+.btn.btn-danger:hover { background-color: rgb(238, 130, 148); }
+
+.btn.btn-info { background-color: rgb(27, 188, 155); color: rgb(255, 255, 2=
+55); }
+
+.btn.btn-info:hover { background-color: rgb(49, 225, 189); }
+
+.btn.btn-light { background-color: rgb(217, 233, 232); color: rgb(26, 26, 2=
+6); }
+
+.btn.btn-light:hover { background-color: rgb(132, 184, 180); }
+
+.btn.btn-dark { background-color: rgb(26, 26, 26); color: rgb(217, 233, 232=
+); }
+
+.btn.btn-dark:hover { background-color: rgb(95, 95, 95); }
+
+.btn.btn-white { background-color: rgb(255, 255, 255); color: rgb(26, 26, 2=
+6); }
+
+.btn.btn-white:hover { background-color: rgb(204, 204, 204); }
+
+.btn.btn-black { background-color: rgb(0, 0, 0); color: rgb(255, 255, 255);=
+ }
+
+.btn.btn-black:hover { background-color: rgb(102, 102, 102); }
+
+.btn.btn-link { background-color: rgb(27, 137, 188); color: rgb(255, 255, 2=
+55); }
+
+.btn.btn-link:hover { background-color: rgb(49, 169, 225); }
+
+@media only screen and (max-width: 600px) {
+  .nav-btn { display: none; }
+  .navbar-brand { display: none; }
+  #navbar { justify-content: center; }
+  h1 { font-size: 18px; }
+}
+------MultipartBoundary--PvZrm9aZmfyrMtz3klLcnvpxTv1wq7unSJjLmNwE4X----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-88928e70-e0af-4e64-b4c6-972cd20de5e1@mhtml.blink
+
+@charset "utf-8";
+
+._th-container ._th-item { margin-bottom: 3px; position: relative; width: 0=
+px; height: 0px; cursor: pointer; opacity: 0.3; background-color: aquamarin=
+e; border-radius: 100%; text-align: center; line-height: 30px; transition: =
+all 0.35s ease 0s; right: 30px; }
+
+._th-container ._th-item, ._th-container ._th-click-hover, ._th_cover-all-s=
+how-times ._th_times { box-shadow: rgb(178, 178, 178) 4px 5px 10px 6px; }
+
+._th-container:hover ._th-item._item-x2 { margin-left: 18px; width: 40px; h=
+eight: 40px; line-height: 40px; }
+
+._th-container:hover ._th-item._item-x-2 { margin-left: 17px; width: 38px; =
+height: 38px; line-height: 38px; }
+
+._th-container:hover ._th-item._item-xx2 { width: 36px; height: 36px; margi=
+n-left: 16px; line-height: 36px; }
+
+._th-container:hover ._th-item._item-xx-2 { width: 32px; height: 32px; line=
+-height: 32px; margin-left: 14px; }
+
+._th-container:hover ._th-item._item-reset { width: 30px; line-height: 30px=
+; height: 30px; margin-left: 10px; }
+
+._th-click-hover { position: relative; transition: all 0.5s ease 0s; height=
+: 45px; width: 45px; cursor: pointer; opacity: 0.6; border-radius: 100%; ba=
+ckground-color: aquamarine; text-align: center; line-height: 45px; right: 0=
+px; }
+
+._th-container:hover { left: -5px; }
+
+._th-container { font-size: 12px; transition: all 0.5s ease 0s; left: -30px=
+; top: 20%; position: fixed; box-sizing: border-box; z-index: 100000; user-=
+select: none; display: flex; width: 58px; flex-flow: row wrap; -webkit-box-=
+orient: horizontal; -webkit-box-direction: normal; }
+
+._th-container ._th-item:hover { opacity: 0.8; background-color: rgb(95, 18=
+0, 146); color: aliceblue; }
+
+._th-container ._th-item:active { opacity: 0.9; background-color: rgb(27, 5=
+8, 38); color: aliceblue; }
+
+._th-container:hover ._th-click-hover { opacity: 0.8; }
+
+._th-container:hover ._th-item { opacity: 0.6; right: 0px; }
+
+._th-container ._th-click-hover:hover { opacity: 0.8; background-color: rgb=
+(95, 180, 146); color: aliceblue; }
+
+._th_cover-all-show-times { position: fixed; top: 0px; right: 0px; width: 1=
+00%; height: 100%; z-index: 99999; opacity: 1; font-weight: 900; font-size:=
+ 30px; color: rgb(79, 79, 79); background-color: rgba(0, 0, 0, 0.1); }
+
+._th_cover-all-show-times._th_hidden { z-index: -99999; opacity: 0; transit=
+ion: all 1s ease 0s; }
+
+._th_cover-all-show-times ._th_times { width: 300px; height: 300px; border-=
+radius: 50%; background-color: rgba(127, 255, 212, 0.51); text-align: cente=
+r; line-height: 300px; position: absolute; top: 50%; right: 50%; margin-top=
+: -150px; margin-right: -150px; }
+------MultipartBoundary--PvZrm9aZmfyrMtz3klLcnvpxTv1wq7unSJjLmNwE4X----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/codemirror.min.css
+
+@charset "utf-8";
+
+.CodeMirror { font-family: monospace; height: 300px; color: rgb(0, 0, 0); d=
+irection: ltr; }
+
+.CodeMirror-lines { padding: 4px 0px; }
+
+.CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like { pad=
+ding: 0px 4px; }
+
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler { background-color:=
+ rgb(255, 255, 255); }
+
+.CodeMirror-gutters { border-right: 1px solid rgb(221, 221, 221); backgroun=
+d-color: rgb(247, 247, 247); white-space: nowrap; }
+
+.CodeMirror-linenumber { padding: 0px 3px 0px 5px; min-width: 20px; text-al=
+ign: right; color: rgb(153, 153, 153); white-space: nowrap; }
+
+.CodeMirror-guttermarker { color: rgb(0, 0, 0); }
+
+.CodeMirror-guttermarker-subtle { color: rgb(153, 153, 153); }
+
+.CodeMirror-cursor { border-left: 1px solid rgb(0, 0, 0); border-right: non=
+e; width: 0px; }
+
+.CodeMirror div.CodeMirror-secondarycursor { border-left: 1px solid silver;=
+ }
+
+.cm-fat-cursor .CodeMirror-cursor { width: auto; background: rgb(119, 238, =
+119); border: 0px !important; }
+
+.cm-fat-cursor div.CodeMirror-cursors { z-index: 1; }
+
+.cm-fat-cursor-mark { background-color: rgba(20, 255, 20, 0.5); animation: =
+1.06s steps(1) 0s infinite normal none running blink; }
+
+.cm-animate-fat-cursor { width: auto; border: 0px; animation: 1.06s steps(1=
+) 0s infinite normal none running blink; background-color: rgb(119, 238, 11=
+9); }
+
+@-webkit-keyframes blink {=20
+  50% { background-color: transparent; }
+}
+
+@keyframes blink {=20
+  50% { background-color: transparent; }
+}
+
+.cm-tab { display: inline-block; text-decoration: inherit; }
+
+.CodeMirror-rulers { position: absolute; inset: -50px 0px 0px; overflow: hi=
+dden; }
+
+.CodeMirror-ruler { border-left: 1px solid rgb(204, 204, 204); top: 0px; bo=
+ttom: 0px; position: absolute; }
+
+.cm-s-default .cm-header { color: rgb(0, 0, 255); }
+
+.cm-s-default .cm-quote { color: rgb(0, 153, 0); }
+
+.cm-negative { color: rgb(221, 68, 68); }
+
+.cm-positive { color: rgb(34, 153, 34); }
+
+.cm-header, .cm-strong { font-weight: 700; }
+
+.cm-em { font-style: italic; }
+
+.cm-link { text-decoration: underline; }
+
+.cm-strikethrough { text-decoration: line-through; }
+
+.cm-s-default .cm-keyword { color: rgb(119, 0, 136); }
+
+.cm-s-default .cm-atom { color: rgb(34, 17, 153); }
+
+.cm-s-default .cm-number { color: rgb(17, 102, 68); }
+
+.cm-s-default .cm-def { color: rgb(0, 0, 255); }
+
+.cm-s-default .cm-variable-2 { color: rgb(0, 85, 170); }
+
+.cm-s-default .cm-type, .cm-s-default .cm-variable-3 { color: rgb(0, 136, 8=
+5); }
+
+.cm-s-default .cm-comment { color: rgb(170, 85, 0); }
+
+.cm-s-default .cm-string { color: rgb(170, 17, 17); }
+
+.cm-s-default .cm-string-2 { color: rgb(255, 85, 0); }
+
+.cm-s-default .cm-meta { color: rgb(85, 85, 85); }
+
+.cm-s-default .cm-qualifier { color: rgb(85, 85, 85); }
+
+.cm-s-default .cm-builtin { color: rgb(51, 0, 170); }
+
+.cm-s-default .cm-bracket { color: rgb(153, 153, 119); }
+
+.cm-s-default .cm-tag { color: rgb(17, 119, 0); }
+
+.cm-s-default .cm-attribute { color: rgb(0, 0, 204); }
+
+.cm-s-default .cm-hr { color: rgb(153, 153, 153); }
+
+.cm-s-default .cm-link { color: rgb(0, 0, 204); }
+
+.cm-s-default .cm-error { color: red; }
+
+.cm-invalidchar { color: red; }
+
+.CodeMirror-composing { border-bottom: 2px solid; }
+
+div.CodeMirror span.CodeMirror-matchingbracket { color: rgb(0, 187, 0); }
+
+div.CodeMirror span.CodeMirror-nonmatchingbracket { color: rgb(170, 34, 34)=
+; }
+
+.CodeMirror-matchingtag { background: rgba(255, 150, 0, 0.3); }
+
+.CodeMirror-activeline-background { background: rgb(232, 242, 255); }
+
+.CodeMirror { position: relative; overflow: hidden; background: rgb(255, 25=
+5, 255); }
+
+.CodeMirror-scroll { margin-bottom: -30px; margin-right: -30px; padding-bot=
+tom: 30px; height: 100%; outline: 0px; position: relative; overflow: scroll=
+ !important; }
+
+.CodeMirror-sizer { position: relative; border-right: 30px solid transparen=
+t; }
+
+.CodeMirror-gutter-filler, .CodeMirror-hscrollbar, .CodeMirror-scrollbar-fi=
+ller, .CodeMirror-vscrollbar { position: absolute; z-index: 6; display: non=
+e; }
+
+.CodeMirror-vscrollbar { right: 0px; top: 0px; overflow: hidden scroll; }
+
+.CodeMirror-hscrollbar { bottom: 0px; left: 0px; overflow: scroll hidden; }
+
+.CodeMirror-scrollbar-filler { right: 0px; bottom: 0px; }
+
+.CodeMirror-gutter-filler { left: 0px; bottom: 0px; }
+
+.CodeMirror-gutters { position: absolute; left: 0px; top: 0px; min-height: =
+100%; z-index: 3; }
+
+.CodeMirror-gutter { white-space: normal; height: 100%; display: inline-blo=
+ck; vertical-align: top; margin-bottom: -30px; }
+
+.CodeMirror-gutter-wrapper { position: absolute; z-index: 4; background: 0p=
+x 0px !important; border: none !important; }
+
+.CodeMirror-gutter-background { position: absolute; top: 0px; bottom: 0px; =
+z-index: 4; }
+
+.CodeMirror-gutter-elt { position: absolute; cursor: default; z-index: 4; }
+
+.CodeMirror-gutter-wrapper ::selection { background-color: transparent; }
+
+.CodeMirror-lines { cursor: text; min-height: 1px; }
+
+.CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like { bor=
+der-radius: 0px; border-width: 0px; background: 0px 0px; font-family: inher=
+it; font-size: inherit; margin: 0px; white-space: pre; overflow-wrap: norma=
+l; line-height: inherit; color: inherit; z-index: 2; position: relative; ov=
+erflow: visible; -webkit-tap-highlight-color: transparent; font-variant-lig=
+atures: contextual; }
+
+.CodeMirror-wrap pre.CodeMirror-line, .CodeMirror-wrap pre.CodeMirror-line-=
+like { overflow-wrap: break-word; white-space: pre-wrap; word-break: normal=
+; }
+
+.CodeMirror-linebackground { position: absolute; inset: 0px; z-index: 0; }
+
+.CodeMirror-linewidget { position: relative; z-index: 2; padding: 0.1px; }
+
+.CodeMirror-rtl pre { direction: rtl; }
+
+.CodeMirror-code { outline: 0px; }
+
+.CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber, .CodeMirro=
+r-scroll, .CodeMirror-sizer { box-sizing: content-box; }
+
+.CodeMirror-measure { position: absolute; width: 100%; height: 0px; overflo=
+w: hidden; visibility: hidden; }
+
+.CodeMirror-cursor { position: absolute; pointer-events: none; }
+
+.CodeMirror-measure pre { position: static; }
+
+div.CodeMirror-cursors { visibility: hidden; position: relative; z-index: 3=
+; }
+
+div.CodeMirror-dragcursors { visibility: visible; }
+
+.CodeMirror-focused div.CodeMirror-cursors { visibility: visible; }
+
+.CodeMirror-selected { background: rgb(217, 217, 217); }
+
+.CodeMirror-focused .CodeMirror-selected { background: rgb(215, 212, 240); =
+}
+
+.CodeMirror-crosshair { cursor: crosshair; }
+
+.CodeMirror-line::selection, .CodeMirror-line > span::selection, .CodeMirro=
+r-line > span > span::selection { background: rgb(215, 212, 240); }
+
+.cm-searching { background-color: rgba(255, 255, 0, 0.4); }
+
+.cm-force-border { padding-right: 0.1px; }
+
+@media print {
+  .CodeMirror div.CodeMirror-cursors { visibility: hidden; }
+}
+
+.cm-tab-wrap-hack::after { content: ""; }
+
+span.CodeMirror-selectedtext { background: 0px 0px; }
+------MultipartBoundary--PvZrm9aZmfyrMtz3klLcnvpxTv1wq7unSJjLmNwE4X----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/theme/monokai.min.css
+
+@charset "utf-8";
+
+.cm-s-monokai.CodeMirror { background: rgb(39, 40, 34); color: rgb(248, 248=
+, 242); }
+
+.cm-s-monokai div.CodeMirror-selected { background: rgb(73, 72, 62); }
+
+.cm-s-monokai .CodeMirror-line::selection, .cm-s-monokai .CodeMirror-line >=
+ span::selection, .cm-s-monokai .CodeMirror-line > span > span::selection {=
+ background: rgba(73, 72, 62, 0.99); }
+
+.cm-s-monokai .CodeMirror-gutters { background: rgb(39, 40, 34); border-rig=
+ht: 0px; }
+
+.cm-s-monokai .CodeMirror-guttermarker { color: rgb(255, 255, 255); }
+
+.cm-s-monokai .CodeMirror-guttermarker-subtle { color: rgb(208, 208, 208); =
+}
+
+.cm-s-monokai .CodeMirror-linenumber { color: rgb(208, 208, 208); }
+
+.cm-s-monokai .CodeMirror-cursor { border-left: 1px solid rgb(248, 248, 240=
+); }
+
+.cm-s-monokai span.cm-comment { color: rgb(117, 113, 94); }
+
+.cm-s-monokai span.cm-atom { color: rgb(174, 129, 255); }
+
+.cm-s-monokai span.cm-number { color: rgb(174, 129, 255); }
+
+.cm-s-monokai span.cm-comment.cm-attribute { color: rgb(151, 183, 87); }
+
+.cm-s-monokai span.cm-comment.cm-def { color: rgb(188, 146, 98); }
+
+.cm-s-monokai span.cm-comment.cm-tag { color: rgb(188, 98, 131); }
+
+.cm-s-monokai span.cm-comment.cm-type { color: rgb(89, 152, 166); }
+
+.cm-s-monokai span.cm-attribute, .cm-s-monokai span.cm-property { color: rg=
+b(166, 226, 46); }
+
+.cm-s-monokai span.cm-keyword { color: rgb(249, 38, 114); }
+
+.cm-s-monokai span.cm-builtin { color: rgb(102, 217, 239); }
+
+.cm-s-monokai span.cm-string { color: rgb(230, 219, 116); }
+
+.cm-s-monokai span.cm-variable { color: rgb(248, 248, 242); }
+
+.cm-s-monokai span.cm-variable-2 { color: rgb(158, 255, 255); }
+
+.cm-s-monokai span.cm-type, .cm-s-monokai span.cm-variable-3 { color: rgb(1=
+02, 217, 239); }
+
+.cm-s-monokai span.cm-def { color: rgb(253, 151, 31); }
+
+.cm-s-monokai span.cm-bracket { color: rgb(248, 248, 242); }
+
+.cm-s-monokai span.cm-tag { color: rgb(249, 38, 114); }
+
+.cm-s-monokai span.cm-header { color: rgb(174, 129, 255); }
+
+.cm-s-monokai span.cm-link { color: rgb(174, 129, 255); }
+
+.cm-s-monokai span.cm-error { background: rgb(249, 38, 114); color: rgb(248=
+, 248, 240); }
+
+.cm-s-monokai .CodeMirror-activeline-background { background: rgb(55, 56, 4=
+9); }
+
+.cm-s-monokai .CodeMirror-matchingbracket { text-decoration: underline; col=
+or: rgb(255, 255, 255) !important; }
+------MultipartBoundary--PvZrm9aZmfyrMtz3klLcnvpxTv1wq7unSJjLmNwE4X----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://localhost:3000/assets/icons/icon_96x96.png
+
+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
+
+------MultipartBoundary--PvZrm9aZmfyrMtz3klLcnvpxTv1wq7unSJjLmNwE4X------

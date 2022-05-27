@@ -10,9 +10,7 @@ https://young-hollows-58244.herokuapp.com/
 Asika Habib @ toma95s
 
 
-
-
-# code scippet
+# code snippet
 
 Here you can see the Logic for installing the PWA and event handler to the beforeinstallprompt event. Along with click a event handler on the butinstall element. The handler for the appinstalled event can also be seen here.
 
